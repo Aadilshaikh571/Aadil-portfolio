@@ -23,12 +23,14 @@ import netlifyLogo from "./assets/tech_logo/netlify.png";
 import vercelLogo from "./assets/tech_logo/vercel.png";
 import csharpLogo from "./assets/tech_logo/csharp.png";
 
+//Skill as Data Analyst
 import tableau from "./assets/tech_logo/tableau.jpg";
-import SnowFlake from "./assets/tech_logo/SnowFlake.jpg";
+import SnowFlake from "./assets/tech_logo/snowflake.jpg";
 import aws from "./assets/tech_logo/aws.jpg";
 import flask from "./assets/tech_logo/flask.jpg";
 import Numpy from "./assets/tech_logo/Numpy.jpg";
 import Matplotlib from "./assets/tech_logo/Matplotlib.jpg";
+import PowerBi from "./assets/tech_logo/PowerBi.jpg";
 
 // Education Section Logo's
 import glaLogo from "./assets/education_logo/gla_logo.png";
@@ -40,7 +42,7 @@ import FineTrackPh from "./assets/work_logo/FineTrack.png";
 import BookHome from "./assets/work_logo/BookHome.png";
 import Lgo11 from "./assets/work_logo/Weather.png";
 import NexGenPh from "./assets/work_logo/NexGen.png";
-import powerBiPh from "./assets/work_logo/powerBi.jpg";
+import powerBiPh from "./assets/work_logo/PowerBi.jpg";
 import SnowFlakePh from "./assets/work_logo/SnowFlake.png.jpg";
 import AgroCraftPG from "./assets/work_logo/AgroCraft.png";
 
@@ -54,6 +56,8 @@ export const SkillsInfo = [
       { name: "AWS", logo: aws },
       { name: "Flask", logo: flask },
       { name: "Taleau", logo: tableau },
+      { name: "Matplotlib", logo: Matplotlib },
+      { name: "PowerBi", logo: PowerBi },
     ],
   },
   {
