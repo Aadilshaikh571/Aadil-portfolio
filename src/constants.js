@@ -29,7 +29,7 @@ import SnowFlake from "./assets/tech_logo/snowflake.jpg";
 import aws from "./assets/tech_logo/aws.jpg";
 import flask from "./assets/tech_logo/flask.jpg";
 import Numpy from "./assets/tech_logo/Numpy.jpg";
-import Matplotlib from "./assets/tech_logo/Matplotlib.jpg";
+import Matplotlib from "./assets/tech_logo/matplotlib.jpg";
 import PowerBi from "./assets/tech_logo/PowerBi.jpg";
 
 // Education Section Logo's
